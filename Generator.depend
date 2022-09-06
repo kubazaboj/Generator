@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485955970 source:p:\programy\c\generator\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
